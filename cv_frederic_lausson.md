@@ -1,7 +1,7 @@
 # Frédéric LAUSSON
 
 
-![This is a alt text.](DSC_0380-FR-Passeport-102x152-mm_10x15-ConvertImage(1).jpg "This is a sample image.")
+![This is a alt text.](CV.jpg "This is a sample image.")
 
 
 ## Objectif
